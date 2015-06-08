@@ -1,0 +1,15 @@
+li {
+  display: none; }
+
+p a {
+  foo: bar; }
+
+div {
+  -webkit-transition: all;
+  -moz-transition: all;
+  transition: all; }
+
+div {
+  color: red; }
+  div li {
+    color: blue; }
