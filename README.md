@@ -6,7 +6,7 @@ To use the module you just install it and hook in the *displayHeader* position.
 Then go to the configuration page and you'll be presented with two windows: the editor and the viewer:
 
  - the **editor** is where you write your SCSS styles
- - the *viewer** is where the compiled CSS is shown (not editable)
+ - the **viewer** is where the compiled CSS is shown (not editable)
  
  Just hit *Save* and you're done!
  
